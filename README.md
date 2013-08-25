@@ -6,10 +6,10 @@ This project presents a hybrid algorithm for training RBF network based on K-mea
 
 Howto
 -----
-1.use matlab to add path.
+1. use matlab to add path.
 
-2.defualt repeattime is 1,you can modify the rts premeter of the code.
+2. defualt repeattime is 1,you can modify the rts premeter of the code.
 
-3.in the command window,type the name(im_rbf_som,im_rbf_kmeans,im_mlpscg or im_knn).
+3. in the command window,type the name(im_rbf_som,im_rbf_kmeans,im_mlpscg or im_knn).
 
-4.press enter,the classification process would begin ,after it finished,the accuracy and running time would be displayed.
+4. press enter,the classification process would begin ,after it finished,the accuracy and running time would be displayed.
